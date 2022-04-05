@@ -58,7 +58,7 @@ a:hover {
   background-color: #FFEDED;
   position: relative;
   padding-top: 150px;
-  padding-bottom: 0;
+  padding-bottom: 150px;
 }
 
 .middle-container {
